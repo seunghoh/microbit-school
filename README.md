@@ -3,6 +3,7 @@ Welcome to Microbit coding school. This repository is for providing source code 
 
 ## Download 
 If you are not familiar with GitHub, you can just download the code. Select `Clone or download` button and select `Download ZIP` 
+
 ![Download ZIP](https://seunghoh.github.io/microbit-school/images/downloadcode.png)
 
 Unzip the downloaded zip file, then you can see the same folder as you can see in this repository.
