@@ -1,5 +1,6 @@
 # microbit-school
-Welcome to micro:bit coding school. This repository is for providing source code and related materials
+Welcome to micro:bit coding school. This repository is for providing source code and related materials.
+The tutorials are uploaded to the YouTube Channel https://bit.ly/hohparkCoding.
 
 ## Download 
 If you are not familiar with GitHub, you can just download the code. Select `Clone or download` button and select `Download ZIP` 
