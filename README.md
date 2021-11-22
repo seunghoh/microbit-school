@@ -1,5 +1,5 @@
 # microbit-school
-Welcome to Microbit coding school. This repository is for providing source code and related materials
+Welcome to micro:bit coding school. This repository is for providing source code and related materials
 
 ## Download 
 If you are not familiar with GitHub, you can just download the code. Select `Clone or download` button and select `Download ZIP` 
